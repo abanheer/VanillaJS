@@ -1,2 +1,2 @@
 # VanillaJS
-These are the Vanilla JS/HTML/CSS codes I learnt to write from freeCodeCamp.com
+These are the JS/HTML/CSS codes I learnt from freeCodeCamp.com as part of their Vanilla JS Course
